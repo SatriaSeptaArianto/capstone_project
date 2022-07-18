@@ -347,7 +347,7 @@ class InfoCard extends StatelessWidget {
         height: 145,
         width: 148,
         decoration: BoxDecoration(
-          image: DecorationImage(image: NetworkImage("https://s3-alpha-sig.figma.com/img/ac8d/80b9/4280245671bc75bd135e726d7990e5c6?Expires=1657497600&Signature=KwvQTAH6Q5TZ5s7Qms0cuFa6ZrN4CG~uCUJBDsb~S~tB-wvJBJzz-98S6kLrZ2Q2v~AgymFhYvJPl0arW3sIxUloyukjPTfX0nhlCfCyMsCchhHDEVpCnsTkeIuZlhB4ykvJPDMlIVhLQKq5cmKZZxqxYi4FBQh5Sfy2KBSojyIa-3i-bHwlBjDz9FEe1bmBH6bqxLBh~dqoyP5k7uWfCQ~gTtWA7FXYeAHhUcSFNeeuea2Ok9nLrln2jU5RIjZcXL43VN4IibPa9SbJAYF3oQZrBvg9TrnCGWV~LfvisipEm-GQOzCWF2WkXaHx2JnSscYYY9HNvlxEArJqvk0HQg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"),),
+          image: DecorationImage(image: AssetImage("assets/images/article.png"),),
           border: Border.all(color : Color(0xFFC1E9FF)),
           borderRadius: BorderRadius.circular(10),
           color: const Color(0xFFFFFFFF),
